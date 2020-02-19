@@ -9,6 +9,6 @@ A working dashboard which visualizes the real time and historical values of a hy
 
 ![Flare Temperature](https://github.com/DaveMontanez/eog-react-visualization-assessment/blob/master/src/img/flareTemp.JPG)
 
-This assessment was bespoke handcrafted for davidmontanez-react-visualization.
+This assessment was bespoke handcrafted for Bhargav-react-visualization.
 
 Read more about this assessment [here](https://react.eogresources.com)
