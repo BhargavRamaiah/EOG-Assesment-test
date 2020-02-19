@@ -1,6 +1,6 @@
 ## Create React App Visualization - EOG Resources
 
-#Steps to install and run 
+# Steps to install and run 
 1. clone the repo
 2. run the command: npm install 
 3. after sucessful installation, please run the commmand: npm start
